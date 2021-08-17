@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Saranchai Sinlapasorn, you can callme Kratua.
+- 👋 Hi, I’m Saranchai Sinlapasorn, you can call me Kratua.
 - 👀 I’m interested in Data Scientist.
 - 🌱 I’m currently learning Applied Mathematics.
